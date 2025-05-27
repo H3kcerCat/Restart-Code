@@ -2,4 +2,4 @@ import os
 print("Restarting...")
 
 # Restart Windows immediately
-os.system("shutdown /r /t 15")
+os.system("shutdown /r /t 5")
