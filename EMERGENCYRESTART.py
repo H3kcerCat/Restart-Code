@@ -1,5 +1,5 @@
 import os
-print("Restarting...")
+print("HAHA I SHUT DOWN YOUR COMPUTER")
 
 # Restart Windows immediately
 os.system("shutdown /r /t 5")
